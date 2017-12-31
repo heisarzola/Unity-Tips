@@ -1,9 +1,9 @@
-# Unity-Tips
+# Unity Tips
 A collection of shortcuts, keyboard commands, and other included hidden goodies that will improve your experience developing with the unity game engine.
 
 ## Getting Started
 
-To actually see the unity tips list, please visit the [siki section of this repository.](https://github.com/heisarzola/Unity-Tips/wiki) As you will be unable to find anything here, on the code section.
+To actually see the unity tips list, please visit the [wiki section of this repository](https://github.com/heisarzola/Unity-Tips/wiki). As, to begin with, you will be unable to find anything here (the code section).
 
 ## Additional Notes
 * This is but a compilation of useful tips that have accumulated through time, so the author does not claim to have created any of these "hacks", just documented them for other's sake.
