@@ -14,10 +14,3 @@ To actually see the unity tips list, please visit the [wiki section of this repo
 
 Arzola is an indie game developer that works under the motto: 
 **"Messing With Your Brain, Via Thought-Provoking Games."** You can read more in [his website](http://heisarzola.com) if you so desire.
-
-Likewise, on his social media (starting December 2017) it is attempted to share tips like those included in the repository. In case anyone wants to follow:
-
-[Twitter](https://twitter.com/heisarzola/)
- | [Facebook](https://www.facebook.com/heisarzola/)
- | [Instagram (Developer Tips)](https://www.instagram.com/heisarzola/)
- | [Developer Blog](http://heisarzola.com/devblog/)
